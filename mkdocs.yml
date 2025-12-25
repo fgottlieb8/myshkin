@@ -1,0 +1,13 @@
+site_name: Felix’s Notes
+theme:
+  name: material
+
+plugins:
+  - search
+  - obsidian-support
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - toc:
+      permalink: true
