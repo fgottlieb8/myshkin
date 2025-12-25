@@ -1,5 +1,3 @@
-
-
 I have been focussing on understanding the Bell Inequalities via Classical Causal Models. 
 
 Causal models rely on simplifying the factorization of a joint probability distributions.
